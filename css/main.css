@@ -1,0 +1,45 @@
+.ul {
+  list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+img {
+  display: block;
+}
+
+::after,
+::before {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container {
+  width: 1292px;
+}
+
+body {
+  background-color: #F6B637;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "montserrat", sans-serif;
+}
+
+.header {
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+.header__link {
+  color: #505115;
+  font-family: "Montserrat";
+  font-size: 22px;
+  font-weight: 700;
+}/*# sourceMappingURL=main.css.map */

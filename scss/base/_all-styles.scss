@@ -1,0 +1,34 @@
+.ul{
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4{
+margin-top: 0;
+margin-bottom: 0;
+}
+
+img{
+    display: block;
+}
+
+::after,
+::before{
+    box-sizing: border-box;
+}
+
+
+
+.container{
+    width: 1292px;
+}
+
+body{
+    background-color: $secondBackgroundColor;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'montserrat', sans-serif;
+}
